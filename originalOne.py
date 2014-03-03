@@ -1,7 +1,6 @@
 import random
 import time
 
-
 # This program combines synthesizes skills learned in Chapter 1-6.
 print('Greetings, weary travelor. You must be the one I have been waiting for.')
 print('What is your name?')
